@@ -7,5 +7,6 @@
 <div align=center>
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/donggyu-woo-a41701a7/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woodonggyu92@gmail.com)](mailto:woodonggyu92@gmail.com)
 
 </div>
