@@ -4,5 +4,6 @@
 - Security Engineer in FinTech(Finanacial Technology) Industry
 
 <div align=center>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/donggyu-woo-a41701a7/)](https://www.linkedin.com/in/donggyu-woo-a41701a7/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/donggyu-woo-a41701a7/)](https://www.linkedin.com/in/donggyu-woo-a41701a7/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 </div>
