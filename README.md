@@ -11,5 +11,6 @@ I'm Donggyu Woo.
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:woodonggyu92@gmail.com)](mailto:woodonggyu92@gmail.com)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white&link=https://github.com/woodonggyu)](https://github.com/woodonggyu)
 [![Blog](http://img.shields.io/badge/-Blog-000000?style=flat-square&color=orange&logo=bloglovin&link=https://velog.io/@woodonggyu)](https://velog.io/@woodonggyu)
+[![CV](http://img.shields.io/badge/-CV-blue?style=flat-square&linkhttps://woodonggyu.github.io/online-cv/)](https://woodonggyu.github.io/online-cv/)
 
 </div>
